@@ -12,7 +12,7 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
 * Statistics: [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 * These links are provided for package documentation
 
-  ## Documentation 
+## Documentation 
 The data was pulled from [Kaggle](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/data) - it was too large to upload as a file onto GitHub.
 
 ## Important information 
