@@ -13,7 +13,7 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
 * These links are provided for package documentation
 
   ## Documentation 
-Our data was pulled from [Kaggle](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/data) - it was too large to upload as a file onto GitHub
+The data was pulled from [Kaggle](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/data) - it was too large to upload as a file onto GitHub.
 
 ## Important information 
 Please refer to the CS3 Hook Document and CS3 Rubric for in-depth information and instructions about the case study assignment. 
