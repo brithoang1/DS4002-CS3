@@ -16,4 +16,5 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
 Our data was pulled from [Kaggle](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/data) - it was too large to upload as a file onto GitHub
 
 
-## REFERENCE MATERIALS folder:** contains "Project_EDA.ipynb" which is a file that instructs the user how to download our data from Kaggle, data cleaning, and EDA. It also contains "Project1_Part1_SentimentAnalysis.ipynb" and "Project1_Part2_FrequentWords.ipynb" which are notebooks to our sentiment analysis, frequently used words. "Project1_Part3_StatisticalSignificance.ipynb" was created to find and test the statistical significance of our mean sentiment scores for Trump and Biden.
+## REFERENCE MATERIALS folder:
+Contains "Project_EDA.ipynb" which is a file that instructs the user how to download our data from Kaggle, data cleaning, and EDA. It also contains "Project1_Part1_SentimentAnalysis.ipynb" and "Project1_Part2_FrequentWords.ipynb" which are notebooks to our sentiment analysis, frequently used words. "Project1_Part3_StatisticalSignificance.ipynb" was created to find and test the statistical significance of our mean sentiment scores for Trump and Biden.
