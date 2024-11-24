@@ -11,3 +11,6 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
 * EDA & Visualization: [pandas](https://pypi.org/project/pandas/), [numpy](https://pypi.org/project/numpy/), [matplotlib](https://pypi.org/project/matplotlib/), [wordcloud](https://pypi.org/project/wordcloud/), and [seaborn](https://pypi.org/project/seaborn/) 
 * Statistics: [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 * These links are provided for package documentation
+
+  ## Documentation 
+Our data was pulled from [Kaggle](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/data) - it was too large to upload as a file onto GitHub
